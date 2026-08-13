@@ -14,7 +14,7 @@ import { useReveal } from "@/hooks/use-reveal";
 
 const TITLE = "FR1EV SECURITY | Discord Moderation & Protection Bot";
 const DESCRIPTION =
-  "FR1EV SECURITY is an advanced Discord moderation and protection bot with dashboard controls, automod, tickets, leveling, Roblox verification, AI tools, and server security.";
+  "Advanced Discord moderation and protection bot with automod, dashboard controls, Roblox verification, tickets, and AI-powered server security.";
 const URL = "https://fr1ev.xyz/";
 const IMAGE = "https://fr1ev.xyz/fr1ev_security.png";
 

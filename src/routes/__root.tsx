@@ -81,7 +81,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "FR1EV SECURITY is an advanced Discord moderation and protection bot with dashboard controls, automod, tickets, leveling, Roblox verification, AI tools, and server security.",
+          "Advanced Discord moderation and protection bot with automod, dashboard controls, Roblox verification, tickets, and AI-powered server security.",
       },
       { name: "robots", content: "index, follow" },
       { name: "theme-color", content: "#030712" },
