@@ -11,11 +11,11 @@ export const LINKS = {
   userInstall:
     "https://discord.com/oauth2/authorize?client_id=1453017552551936000&integration_type=1&scope=applications.commands",
   dashboard: "https://dashboard.fr1ev.xyz/",
-  support: "https://discord.gg/TEMa2cFh6h",
+  support: "https://discord.gg/Bd7fEsTHNJ",
   topgg: "https://top.gg/bot/1453017552551936000/vote",
   dbl: "https://discordbotlist.com/bots/1453017552551936000/upvote",
   roblox: "/roblox/",
-  profile: "/profile/",
+  profile: "https://profile.fr1ev.xyz/",
   dashboardPage: "/dashboard/",
   privacy: "/privacy.html",
   terms: "/tos.html",
